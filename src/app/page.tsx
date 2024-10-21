@@ -27,7 +27,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="https://nextjs.org/icons/window.svg"
+            src="https://github.com/Stiven073120/frontend"
             alt="Window icon"
             width={16}
             height={16}
@@ -42,7 +42,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="https://nextjs.org/icons/window.svg"
+            src="https://github.com/Stiven073120/backend"
             alt="Window icon"
             width={16}
             height={16}
